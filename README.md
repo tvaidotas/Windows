@@ -85,6 +85,10 @@ Settings -> Editor -> General
 * Atom Material icons
 * Nyan progress bar
 
+### Disable project re-opening
+
+Appearance & Behaviour -> System Settings
+
 ### Github account
 
 Settings -> Version Control -> GitHub
