@@ -10,6 +10,10 @@ Services -> Windows update -> Properties -> Disabled
 
 Notifications & actions -> Disable everything 
 
+## Quick access in File explorer
+
+[download](https://blog.techinline.com/2018/11/30/how-to-disable-quick-access-in-windows-10-file-explorer/)
+
 ## Drivers
 
 * Chipset drivers
