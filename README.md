@@ -183,6 +183,11 @@ Set MAVEN_HOME environment variable.
 
 [download](https://www.jetbrains.com/pycharm/download/#section=windows)
 
+In the `pycharm64.exe.vmoptions` file
+
+-Xms2048m
+-Xmx4096m
+
 ## Steam
 
 [download](https://store.steampowered.com/about/)
