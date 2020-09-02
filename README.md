@@ -37,3 +37,7 @@ Settings -> Editor -> General
 ### Github account
 
 Settings -> Version Control -> GitHub
+
+## Avast
+
+[download](https://www.avast.com/en-gb/free-antivirus-download#pc)
