@@ -110,80 +110,80 @@ Set MAVEN_HOME environment variable.
 
 ## Teams
 
-[download]()
+[download](https://www.microsoft.com/en-gb/microsoft-365/microsoft-teams/download-app)
 
 ## ICue
 
-[download]()
+[download](https://www.corsair.com/ww/en/downloads)
 
 ## Steelseries
 
-[download]()
+[download](https://steelseries.com/engine/post-download)
 
 ## Discord
 
-[download]()
+[download](https://discord.com/download)
 
 ## Obs
 
-[download]()
+[download](https://obsproject.com/welcome)
 
 ## Virtual box
 
-[download]()
+[download](https://www.virtualbox.org/wiki/Downloads)
 
 ## Nord
 
-[download]()
+[download](https://nordvpn.com/download/windows/)
 
 ## Postman
 
-[download]()
+[download](https://www.postman.com/downloads/)
 
 ## Spotify
 
-[download]()
+[download](https://www.spotify.com/uk/download/other/)
 
 ## Sublime
 
-[download]()
+[download](https://www.sublimetext.com/3)
 
 ## Teamviewer
 
-[download]()
+[download](https://www.teamviewer.com/en/download/windows/)
 
 ## Adobe reader
 
-[download]()
+[download](https://get.adobe.com/uk/reader/)
 
 ## VLC
 
-[download]()
+[download](https://get.videolan.org/vlc/3.0.11/win32/vlc-3.0.11-win32.exe)
 
 ## Utorrent
 
-[download]()
+[download](https://www.utorrent.com/downloads/complete/track/stable/os/win)
 
 ## Calibre
 
-[download]()
+[download](https://calibre-ebook.com/download_windows)
 
 ## Python SDK
 
-[download]()
+[download](https://www.python.org/downloads/)
 
 ## PyCharm
 
-[download]()
+[download](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 ## Steam
 
-[download]()
+[download](https://store.steampowered.com/about/)
 
 ## Battlenet
 
-[download]()
+[download](https://www.blizzard.com/en-sg/apps/battle.net/desktop)
 
 ## Epic store
 
-[download]()
+[download](https://www.epicgames.com/store/en-US/download)
