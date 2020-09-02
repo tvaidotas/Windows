@@ -50,13 +50,19 @@ Settings -> Version Control -> GitHub
 
 [download](https://getgreenshot.org/downloads/)
 
-## Java
+## Java (JDK/JRE)
 
-[download](https://java.com/en/download/)
+[download](https://www.oracle.com/uk/java/technologies/javase/javase-jdk8-downloads.html)
+
+Set the JAVA_HOME environment variable.
+
+Add java /bin directory to the path. 
 
 ## Maven
 
-[download]()
+[download](https://maven.apache.org/download.cgi)
+
+Set MAVEN_HOME environment variable.
 
 ## Office 365
 
