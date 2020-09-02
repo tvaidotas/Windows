@@ -14,6 +14,30 @@ Notifications & actions -> Disable everything
 
 [download](https://blog.techinline.com/2018/11/30/how-to-disable-quick-access-in-windows-10-file-explorer/)
 
+## Windows bloatware
+
+Use [10appsmanager](https://www.thewindowsclub.com/10appsmanager-windows-10) to get rid of bloatware
+
+## Power Toys
+
+[download](https://github.com/microsoft/PowerToys)
+
+Open powershell as Administrator
+
+Need .net core 3.1 [download](https://dotnet.microsoft.com/download/dotnet-core/thank-you/sdk-3.1.401-windows-x64-installer)
+
+`Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))`
+
+`choco install powertoys` 
+
+### Configuration
+
+General -> Always run as administrator
+General -> Dark theme
+General -> Run at startup
+
+Shortcut guide -> press duration -> 500
+
 ## Drivers
 
 * Chipset drivers
