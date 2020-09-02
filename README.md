@@ -50,3 +50,48 @@ Settings -> Version Control -> GitHub
 
 [download](https://getgreenshot.org/downloads/)
 
+## Java
+
+## Maven
+
+## Office 365
+
+## Teams
+
+## ICue
+
+## Steelseries
+
+## Discord
+
+## Obs
+
+## Virtual box
+
+## Nord
+
+## Postman
+
+## Spotify
+
+## Sublime
+
+## Teamviewer
+
+## Adobe reader
+
+## VLC
+
+## Utorrent
+
+## Calibre
+
+## Python SDK
+
+## PyCharm
+
+## Steam
+
+## Battlenet
+
+## Epic store
