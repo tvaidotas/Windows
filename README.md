@@ -52,46 +52,92 @@ Settings -> Version Control -> GitHub
 
 ## Java
 
+[download](https://java.com/en/download/)
+
 ## Maven
+
+[download]()
 
 ## Office 365
 
+[download]()
+
 ## Teams
+
+[download]()
 
 ## ICue
 
+[download]()
+
 ## Steelseries
+
+[download]()
 
 ## Discord
 
+[download]()
+
 ## Obs
+
+[download]()
 
 ## Virtual box
 
+[download]()
+
 ## Nord
+
+[download]()
 
 ## Postman
 
+[download]()
+
 ## Spotify
+
+[download]()
 
 ## Sublime
 
+[download]()
+
 ## Teamviewer
+
+[download]()
 
 ## Adobe reader
 
+[download]()
+
 ## VLC
+
+[download]()
 
 ## Utorrent
 
+[download]()
+
 ## Calibre
+
+[download]()
 
 ## Python SDK
 
+[download]()
+
 ## PyCharm
+
+[download]()
 
 ## Steam
 
+[download]()
+
 ## Battlenet
 
+[download]()
+
 ## Epic store
+
+[download]()
