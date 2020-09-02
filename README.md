@@ -1,10 +1,20 @@
 # Windows
 
+## Windows update
+
+Services -> Windows update -> Stop
+
+Services -> Windows update -> Properties -> Disabled
+
+## Notifications
+
+Notifications & actions -> Disable everything 
+
 ## Drivers
 
 * Chipset drivers
 * Command centre
-* Gamin app
+* Gaming app
 * Intel network wt
 * Live update
 * X Boost
@@ -21,8 +31,10 @@ Link to motherboard [drivers](https://www.msi.com/Motherboard/support/X370-GAMIN
 
 [download](https://git-scm.com/downloads)
 
+`
 git config --global user.name
 git config --global user.email
+`
 
 ## Intellij
 
