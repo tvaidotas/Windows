@@ -22,9 +22,9 @@ Use [10appsmanager](https://www.thewindowsclub.com/10appsmanager-windows-10) to 
 
 [download](https://github.com/microsoft/PowerToys)
 
-Open powershell as Administrator
-
 Need .net core 3.1 [download](https://dotnet.microsoft.com/download/dotnet-core/thank-you/sdk-3.1.401-windows-x64-installer)
+
+Open powershell as Administrator
 
 `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))`
 
