@@ -68,6 +68,13 @@ git config --global user.email
 
 [download](https://www.jetbrains.com/idea/download/#section=windows)
 
+### Assign more RAM
+
+In the `idea64.exe.vmoptions` file
+
+-Xms2048m
+-Xmx4096m
+
 ### Enable mouse wheel zoom
 
 Settings -> Editor -> General
