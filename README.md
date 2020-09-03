@@ -211,3 +211,7 @@ In the `pycharm64.exe.vmoptions` file
 ## Runelite
 
 [download](https://runelite.net/)
+
+## Imageglass
+
+[download](https://imageglass.org/release/imageglass-7-6-4-30-29#downloads)
