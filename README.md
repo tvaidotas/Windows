@@ -203,3 +203,7 @@ In the `pycharm64.exe.vmoptions` file
 ## Epic store
 
 [download](https://www.epicgames.com/store/en-US/download)
+
+## Runelite
+
+[download](https://runelite.net/)
