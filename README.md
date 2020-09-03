@@ -97,6 +97,10 @@ Settings -> Version Control -> GitHub
 
 [download](https://www.avast.com/en-gb/free-antivirus-download#pc)
 
+## GeForce Experience
+
+[download](https://www.nvidia.com/en-gb/geforce/geforce-experience/)
+
 ## Greenshot
 
 [download](https://getgreenshot.org/downloads/)
