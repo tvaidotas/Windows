@@ -14,6 +14,10 @@ Notifications & actions -> Disable everything
 
 [download](https://blog.techinline.com/2018/11/30/how-to-disable-quick-access-in-windows-10-file-explorer/)
 
+## XBOX game bar
+
+Search for XBOX Game bar and disable it.
+
 ## Windows bloatware
 
 Use [10appsmanager](https://www.thewindowsclub.com/10appsmanager-windows-10) to get rid of bloatware
