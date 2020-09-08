@@ -42,6 +42,10 @@ General -> Run at startup
 
 Shortcut guide -> press duration -> 500
 
+## Chrome
+
+Disable `hardware acceleration` by going into setting and searching for it.
+
 ## Drivers
 
 * Chipset drivers
