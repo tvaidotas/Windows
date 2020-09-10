@@ -22,6 +22,10 @@ Search for XBOX Game bar and disable it.
 
 Use [10appsmanager](https://www.thewindowsclub.com/10appsmanager-windows-10) to get rid of bloatware
 
+## Stopping the double pross for symbols
+
+[link](https://superuser.com/questions/346142/my-windows-keyboard-is-being-clever-with-the-quote-keys-how-can-i-stop-it)
+
 ## Power Toys
 
 [download](https://github.com/microsoft/PowerToys)
