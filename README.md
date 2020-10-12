@@ -18,6 +18,12 @@ Notifications & actions -> Disable everything
 
 Search for XBOX Game bar and disable it.
 
+## Windows Store
+
+To stop windows from re-installing bloatware apps.
+
+Settings -> Update apps automatically -> Disable
+
 ## Windows bloatware
 
 Use [10appsmanager](https://www.thewindowsclub.com/10appsmanager-windows-10) to get rid of bloatware
