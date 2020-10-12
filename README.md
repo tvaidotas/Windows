@@ -77,10 +77,11 @@ Link to motherboard [drivers](https://www.msi.com/Motherboard/support/X370-GAMIN
 
 [download](https://git-scm.com/downloads)
 
-`
+```
 git config --global user.name
+
 git config --global user.email
-`
+```
 
 ## Intellij
 
